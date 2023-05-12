@@ -1,5 +1,5 @@
 
-# MySQL Database Simulator (Bash Project)
+# MySQL Database Simulator Using Bash Scripting
 
 This Bash project simulates the functionality of a MySQL database. It provides a set of scripts to perform various operations on the database. The project is organized under a directory called `MySQL`, with a main script named `main.sh`. When the user runs the script, the screen will be cleared, and a menu will be displayed with options numbered from 1 to 7. Each option corresponds to a specific script for a particular operation.
 
